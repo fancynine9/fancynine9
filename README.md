@@ -1,4 +1,5 @@
 - Hi! I’m Sameeha 
+- I'm interested in making cool stuff with computers and math. 
 - 🌱  I’m currently studying Computer Science at Austin College (minoring in Gender Studies and Latin).
 - 💞️  I’m looking to collaborate on team software development projects as an intern.
 - 📫  email: skhaled1793@gmail.com
