@@ -1,8 +1,8 @@
-- Hi! I’m Sameeha!
-- 
-- I'm interested in making cool stuff with computers and math, namely, computer programs 
-- that will ultimately help someone somewhere. Really interested in the design, but completely 
-- committed to its' execution, backend to front. 
+Hi! I’m Sameeha!
+
+I enjoy making inventive and unique software applications for a multitude of varying purposes, 
+but ultimately, programs that will ultimately help someone, somewhere. Extremely interested in design architecture, but completely 
+committed to its' execution, backend to front. 
 
 About Me: 
 - Currently studying Computer Science at Austin College (minoring in Gender Studies and Latin).
