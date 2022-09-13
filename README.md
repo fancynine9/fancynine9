@@ -7,7 +7,7 @@ committed to its' execution, backend to front.
 About Me: 
 - Currently studying Computer Science at Austin College (minoring in Gender Studies and Latin).
 - Looking forward to gaining experience as a full-time member of a software engineering team. 
-- 📫  email: skhaled18@austincollege.edu 
+- 📫  email: skhaled1793@gmail.com 
 
 <!---
 fancynine9/fancynine9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
